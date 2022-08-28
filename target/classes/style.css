@@ -1,0 +1,15 @@
+.panel {
+    -fx-background-color: gray;
+}
+
+.button{
+    -fx-background-radius: 9px;
+}
+
+.text{
+    -fx-color-label-visible: orange;
+}
+
+.title{
+    -fx-font-size: 25px;
+}
